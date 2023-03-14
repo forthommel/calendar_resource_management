@@ -29,5 +29,6 @@
 		<command>OCA\CalendarResourceManagement\Command\CreateVehicle</command>
 		<command>OCA\CalendarResourceManagement\Command\ListResources</command>
 		<command>OCA\CalendarResourceManagement\Command\DeleteResource</command>
+		<command>OCA\CalendarResourceManagement\Command\UpdateResource</command>
 	</commands>
 </info>
